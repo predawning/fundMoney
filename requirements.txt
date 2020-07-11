@@ -1,0 +1,6 @@
+selenium
+lxml
+html5lib
+BeautifulSoup4
+xlwt
+pandas
